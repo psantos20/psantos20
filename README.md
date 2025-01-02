@@ -7,7 +7,7 @@ Olá Eu sou o Pedro Santos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psantos20&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psanttos20&layout=compact)](https://github.com/psantos20/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psantos20&layout=compact)](https://github.com/psantos20/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
