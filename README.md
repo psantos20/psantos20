@@ -5,8 +5,6 @@ Olá Eu sou o Pedro Santos
 - 😄 Pronomes: Ele/Dele
 - 👩‍💻 Meu objetivo profissional é trabalhar como desenvolvedor Front - End
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psantos20)](https://github.com/psantos20/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psantos20&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
