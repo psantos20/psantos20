@@ -22,3 +22,17 @@ Olá Eu sou o Pedro Santos
   <a href="https://www.linkedin.com/in/pedro-santos-de-almeida-317730209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <a href="https://github.com/artur-devb">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=artur-devb&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-devb&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</div>
+
+![Snake animation](https://github.com/psantos20/psantos20/blob/output/github-contribution-grid-snake.svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psantos20_username&repo=psantos20_repository)](https://github.com/psantos20/psantos20)
+
+
+
+
