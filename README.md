@@ -23,6 +23,7 @@ Olá Eu sou o Pedro Santos
 </div>
 
 
+![Snake animation](https://github.com/psantos20/psantos20/blob/output/github-contribution-grid-snake.svg)
 
 
 
